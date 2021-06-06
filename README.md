@@ -1,4 +1,9 @@
-# Notes
+# Express.js Challenge: Note Taker
+
+
+
+### Screenshot
+<img src = "imgs/demo.gif" alt = "generator preview">
 
 <div style="position: absolute; top: 22px; right: 50px">
 
