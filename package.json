@@ -1,0 +1,29 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "<div style=\"position: absolute; top: 22px; right: 50px\">",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.4",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchavezval/note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchavezval/note-taker/issues"
+  },
+  "homepage": "https://github.com/jchavezval/note-taker#readme"
+}
